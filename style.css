@@ -1,0 +1,29 @@
+.start{
+    text-align:center;
+}
+
+.clear{
+    text-align:center;
+}
+
+.a1{
+    background:red;
+    height:300px;
+    width:300px;
+    position:absolute;
+}
+
+.a2{
+    background:red;
+    position:absolute;
+}
+
+.close{
+    display:none;
+}
+
+
+
+.open{
+    display:inline;
+}
